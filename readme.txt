@@ -11,4 +11,8 @@ Creating a new branch  is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature
 
-Nice
+<<<<<<< HEAD
+Nice！
+=======
+nice!
+>>>>>>> feature
