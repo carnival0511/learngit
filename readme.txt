@@ -23,5 +23,9 @@ new dev!
 
 New dev!
 
+<<<<<<< HEAD
 
-winner winner winner, chicken chicken dinner!
+winner winner winner, chicken chicken dinner！！！
+=======
+Hello world!
+>>>>>>> 81f85208854ac838dc0fffbd7a7ffe24ac769cb5
