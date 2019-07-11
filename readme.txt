@@ -5,17 +5,17 @@ Git tracks changes.
 What are you saying.
 Creating a new branch is quick.
 Do you know how fast it is?
-<<<<<<< HEAD
-Creating a new branch  is quick & simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature
 
-<<<<<<< HEAD
+Creating a new branch  is quick & simple.
+
+Creating a new branch is quick AND simple.
+
+
+
 Nice！
-=======
+
 nice!
->>>>>>> feature
+
 
 
 new dev!
@@ -24,4 +24,14 @@ new dev!
 New dev!
 
 
+
 I am your brother!
+
+
+winner winner winner, chicken chicken dinner！！！
+
+Hello world!
+
+
+Who is your brother?
+
