@@ -17,3 +17,5 @@ Hello world!
 Who is your brother?
 You are my idol.
 Pretty Good！
+I am not your idol.
+I think so.
